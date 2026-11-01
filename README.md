@@ -1,2 +1,2 @@
 # HeartDiseaseSystem-
-Project of Heart Disease Prediction System using Machine Learning 
+Project -- Heart Disease Prediction System using Machine Learning 
